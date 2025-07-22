@@ -1,9 +1,12 @@
 ## Hello World 🌍🌐🙂
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge)
-![CSV](https://img.shields.io/badge/CSV-4B8BBE?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/json.png" width="40" height="40" alt="JSON"/>
+  <img src="https://img.icons8.com/fluency/48/csv.png" width="40" height="40" alt="CSV"/>
+</p>
+
 
 
 
