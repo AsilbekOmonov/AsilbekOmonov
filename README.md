@@ -5,7 +5,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/json.png" width="40" height="40" alt="JSON"/>
   <img src="https://img.icons8.com/fluency/48/csv.png" width="40" height="40" alt="CSV"/>
-  <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/notion.png" alt="notion"/>
+  <img width="40" height="40" src="https://img.icons8.com/color/48/notion--v1.png" alt="notion--v1"/>
 </p>
 
 
